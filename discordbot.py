@@ -19,7 +19,7 @@ async def ping(ctx):
     
     
 @bot.command()
-async def 草(ctx):
+async def grass(ctx):
     await ctx.send('grass')    
     
     
