@@ -19,8 +19,8 @@ async def ping(ctx):
     
     
 @bot.command()
-async def grass(ctx):
-    await ctx.send('grass')    
+async def g(ctx):
+    await ctx.send('草')    
     
     
 bot.run(token)
